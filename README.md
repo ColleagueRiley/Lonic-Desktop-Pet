@@ -10,5 +10,5 @@ to build the program simply run `make`, this will create the lonic executable
 you must run this executable in the same directory as the lonic images
 
 # features
-- lonic moves around on screen
-- 
+- Lonic moves around on screen
+- You can pet Lonic, this makes him happy
